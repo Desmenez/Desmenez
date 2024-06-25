@@ -1,6 +1,6 @@
 # Hello, I'm Napatpon (Desmenez) 👋
 
-![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![Banner](https://github.com/Desmenez/Desmenez/blob/main/banner.gif)
 
 ## About Me
 - 🔭 I’m currently working on **[Project Name]**
