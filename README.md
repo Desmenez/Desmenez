@@ -1,18 +1,28 @@
 ![Banner](https://github.com/Desmenez/Desmenez/blob/main/banner.gif)
 
 <div align="center">
-  <h1>Hello, I'm Napatpon (Desmenez) 👋</h1>
+  <h1>Hello, I'm Napatpon (Pre) 👋</h1>
 </div>
 
-## About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Project/Tech]**
-- 🤔 I’m looking for help with **[Topic]**
-- 💬 Ask me about **[Topic]**
-- 📫 How to reach me: **[Email]**
-- 😄 Pronouns: **[Pronouns]**
-- ⚡ Fun fact: **[Fun fact]**
+<div align="center">
+  <h2>About me</h2>
+</div>
+สวัสดีครับ! ผมชื่อ **Napatpon Tanmanee** หรือจะเรียกผมว่า **Pre** ก็ได้. ผมเป็นนักพัฒนาซอฟต์แวร์ที่มีความสนใจในการทำแอนิเมชั่นและการปั้นโมเดล 3 มิติ. ผมชื่นชอบการเรียนรู้และการทำงานร่วมกับผู้คนในโปรเจกต์ต่าง ๆ. ตอนนี้ผมมีความสนใจที่จะลองพัฒนาเกมขึ้นมา. ผมพร้อมที่จะเรียนรู้สิ่งใหม่ๆอยู่เสมอ.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Desmenez)
+
+![Desmenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmenez&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
+
+- 🔭 ปัจจุบันฉันกำลังทำงานในโปรเจกต์ **[Project Name]**
+- 🌱 ขณะนี้ฉันกำลังเรียนรู้ **[Technology/Skill]**
+- 👯 ฉันต้องการร่วมงานในโปรเจกต์ **[Project/Tech]**
+- 🤔 ฉันกำลังมองหาความช่วยเหลือใน **[Topic]**
+- 💬 ถามฉันเกี่ยวกับ **[Topic]**
+- 📫 ติดต่อฉันได้ที่ **[Email]**
+- 😄 สรรพนาม: **[Pronouns]**
+- ⚡ ข้อเท็จจริงสนุก ๆ: **[Fun fact]**
 
 ## Archievment
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desmenez" alt="desmenez" /></a> </p>
