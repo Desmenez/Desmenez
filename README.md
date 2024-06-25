@@ -1,7 +1,6 @@
 # Hello, I'm Napatpon (Desmenez) 👋
 
-![Profile views](https://gpvc.arturio.dev/Desmenez)
-![Banner](https://example.com/your-banner-image.png) <!-- แทนที่ลิงก์นี้ด้วยลิงก์ของคุณ -->
+<iframe src="https://desmenez.github.io/Desmenez/" style="width:100%; height:500px; border:none;"></iframe>
 
 ## About Me
 - 🔭 I’m currently working on **[Project Name]**
@@ -28,9 +27,9 @@
 
 ## Featured Projects:
 ### [Project 1](https://github.com/Desmenez/project1)
-![Project 1](https://example.com/your-project1-image.png) <!-- แทนที่ลิงก์นี้ด้วยลิงก์ของคุณ -->
+![Project 1](https://example.com/your-project1-image.png)
 **Description**: Brief description of the project.
 
 ### [Project 2](https://github.com/Desmenez/project2)
-![Project 2](https://example.com/your-project2-image.png) <!-- แทนที่ลิงก์นี้ด้วยลิงก์ของคุณ -->
+![Project 2](https://example.com/your-project2-image.png)
 **Description**: Brief description of the project.
