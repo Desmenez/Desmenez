@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Desmenez)
 
-![Desmenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmenez&count_private=true&show_icons=true&theme=radical)
+![Desmenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmenez&count_private=true&show_icons=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
 
