@@ -1,6 +1,8 @@
-# Hello, I'm Napatpon (Desmenez) 👋
-
 ![Banner](https://github.com/Desmenez/Desmenez/blob/main/banner.gif)
+
+<div align="center">
+  <h1>Hello, I'm Napatpon (Desmenez) 👋</h1>
+</div>
 
 ## About Me
 - 🔭 I’m currently working on **[Project Name]**
