@@ -1,50 +1,35 @@
 ![Banner](https://github.com/Desmenez/Desmenez/blob/main/banner.gif)
 
-<div align="center">
-  <h1>Hello, I'm Napatpon (Pre) 👋</h1>
+![](https://komarev.com/ghpvc/?username=Desmenez&style=for-the-badge)
+
+<div>
+<h2>About me 👋</h2>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      Hi, I'm <strong>Napatpon Thanmanee</strong>, a Front-End Developer with about 3 years of experience. I am also proficient in designing database structures and creating APIs. I graduated in Computer Engineering from King Mongkut's University of Technology Thonburi (KMUTT). I previously worked at Monkey Everyday, an online educational platform. In my free time, I enjoy watching movies, listening to music, reading manga, build 3D model, and playing games. Interestingly, I don't spend much of my leisure time coding; instead, I have a passion for creating short films and cinematic projects (quite unconventional for a programmer, I know LOL!).
+    </p>
+  </div>
+  <div style="display: flex;">
+      <img src="https://qao.kmutt.ac.th/wp-content/uploads/2024/05/PuiKqn_N_400x400.jpg" alt="kmutt" width="80px">
+      <img src="https://monkeyeveryday.com/shared/image/logo/monkeyeveryday.svg" alt="monkey" width="200px" >
+  </div>
+</div>
 </div>
 
-<div align="center">
-  <h2>About me</h2>
-</div>
-สวัสดีครับ! ผมชื่อ **Napatpon Tanmanee** หรือจะเรียกผมว่า **Pre** ก็ได้. ผมเป็นนักพัฒนาซอฟต์แวร์ที่มีความสนใจในการทำแอนิเมชั่นและการปั้นโมเดล 3 มิติ. ผมชื่นชอบการเรียนรู้และการทำงานร่วมกับผู้คนในโปรเจกต์ต่าง ๆ. ตอนนี้ผมมีความสนใจที่จะลองพัฒนาเกมขึ้นมา. ผมพร้อมที่จะเรียนรู้สิ่งใหม่ๆอยู่เสมอ.
+<h2>My Skills ⚙️</h2>
+<h3>Programming Skills</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Desmenez)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,docker,gcp,git,graphql,kubernetes,materialui,mongodb,nestjs,nextjs,nodejs,npm,pnpm,postgres,postman,prisma,py,react,redis,remix,sass,tailwind,terraform,ts,wordpress)](https://skillicons.dev)
+
+<h3>Other Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,figma,ps,pr)](https://skillicons.dev)
+
+<h2>GitHub Stats 💻</h2>
 
 ![Desmenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmenez&count_private=true&show_icons=true&theme=gotham)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
 
-- 🔭 ปัจจุบันฉันกำลังทำงานในโปรเจกต์ **[Project Name]**
-- 🌱 ขณะนี้ฉันกำลังเรียนรู้ **[Technology/Skill]**
-- 👯 ฉันต้องการร่วมงานในโปรเจกต์ **[Project/Tech]**
-- 🤔 ฉันกำลังมองหาความช่วยเหลือใน **[Topic]**
-- 💬 ถามฉันเกี่ยวกับ **[Topic]**
-- 📫 ติดต่อฉันได้ที่ **[Email]**
-- 😄 สรรพนาม: **[Pronouns]**
-- ⚡ ข้อเท็จจริงสนุก ๆ: **[Fun fact]**
-
-## Archievment
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desmenez" alt="desmenez" /></a> </p>
-
-## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-profile)
-
-## My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmenez&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
-
-## Featured Projects:
-### [Project 1](https://github.com/Desmenez/project1)
-![Project 1](https://example.com/your-project1-image.png)
-**Description**: Brief description of the project.
-
-### [Project 2](https://github.com/Desmenez/project2)
-![Project 2](https://example.com/your-project2-image.png)
-**Description**: Brief description of the project.
+> I don't like sand. It's coarse and rough and irritating and it gets everywhere. Not like here. Here everything is soft and smooth.
