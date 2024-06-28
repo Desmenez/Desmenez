@@ -30,6 +30,6 @@
 <h2>GitHub Stats 💻</h2>
 
 ![Desmenez's GitHub stats](https://github-readme-stats-git-master-desmenezs-projects.vercel.app/api?username=Desmenez&count_private=true&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
+![Top Langs](https://github-readme-stats-git-master-desmenezs-projects.vercel.app/api/top-langs/?username=Desmenez&layout=compact)
 
 > I don't like sand. It's coarse and rough and irritating and it gets everywhere. Not like here. Here everything is soft and smooth.
