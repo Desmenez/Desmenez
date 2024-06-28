@@ -8,7 +8,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      Hi, I'm <strong>Napatpon Thanmanee</strong>, a Front-End Developer with about 3 years of experience. I am also proficient in designing database structures and creating APIs. I graduated in Computer Engineering from King Mongkut's University of Technology Thonburi (KMUTT). I previously worked at Monkey Everyday, an online educational platform. In my free time, I enjoy watching movies, listening to music, reading manga, build 3D model, and playing games. Interestingly, I don't spend much of my leisure time coding; instead, I have a passion for creating short films and cinematic projects (quite unconventional for a programmer, I know LOL!).
+      Hi, I'm <strong>Napatpon Thanmanee</strong>, a Front-End Developer with about 3 years of experience. I am also proficient in designing database structures and creating APIs. I graduated in Computer Engineering from King Mongkut's University of Technology Thonburi (KMUTT). I previously worked at Monkey Everyday, an online educational platform. In my free time, I enjoy watching movies, listening to music, reading manga, building a 3D model, and playing games. Interestingly, I don't spend much of my leisure time coding; instead, I have a passion for creating short films and cinematic projects (quite unconventional for a programmer, I know LOL!).
     </p>
   </div>
   <div style="display: flex;">
