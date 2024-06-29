@@ -1,6 +1,17 @@
 ![Banner](https://github.com/Desmenez/Desmenez/blob/main/banner.gif)
 
-![](https://komarev.com/ghpvc/?username=Desmenez&style=for-the-badge)
+<div align="center">
+  <a href="mailto:gobpk03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://facebook.com/napatpon.tanmanee">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://discordapp.com/users/375665774682963971">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Desmenez&style=for-the-badge" alt="Profile Views">
+</div>
 
 <div>
 <h2>About me 👋</h2>
